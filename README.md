@@ -6,12 +6,14 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
 In todays worls stock market moves into technology field to enhance it.Like ML and DL are very efficient in predicting the stock price based on some featues.so in this project we are going the predict the stock price of Google with collected data on past years.By using the Recurrent Neural Network in Deep Learning
+![1](https://user-images.githubusercontent.com/94588708/195572520-a57b1fdd-6678-4af8-935e-4a8ce7ac4d7a.png)
+
 
 
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![2](https://user-images.githubusercontent.com/94588708/195572572-06fa3c7d-ecf3-49fc-832c-2dcaabdf5e1b.png)
 
 ## DESIGN STEPS
 
@@ -120,13 +122,16 @@ plt.show()
 
 ## OUTPUT
 
-### True Stock Price, Predicted Stock Price vs time
+### DATASET:
+![3](https://user-images.githubusercontent.com/94588708/195572821-1eecc54e-a7cc-44ec-8365-39d238779791.png)
 
-Include your plot here
 
-### Mean Square Error
+### MODEL:
+![4](https://user-images.githubusercontent.com/94588708/195573118-e54b55cb-a72c-4282-a4e5-826ddf8fe26d.png)
 
-Include the mean square error
+### True Stock Price, Predicted Stock Price vs time:
+![5](https://user-images.githubusercontent.com/94588708/195573272-cbafe8b1-8c3d-417a-8fc1-69131c705743.png)
+
 
 ## RESULT
 Thus Recurrent Neural Network Model is developed for stock price prediction.
